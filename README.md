@@ -1,0 +1,1 @@
+Teste.sql is my first code cheatsheet for MySQL
