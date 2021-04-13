@@ -1,1 +1,12 @@
-Teste.sql is my first code cheatsheet for MySQL
+Mysql codecheat comandos:
+
+1. CREATE 
+2. USE
+3. UPDATE
+4. ALTER 
+5. INSERT
+6. DELETE
+7. RENAME
+8. GROUP BY
+9. COUNT
+10. DISTINCT
